@@ -42,10 +42,11 @@ Open and run the .sql files in your MySQL environment.
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 📢 Connect with Me
+Portfolio: 
 
 GitHub: https://github.com/MorsalinMiah7
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/morsalin-miah
 
 LeetCode : https://leetcode.com/u/Fyb6MNPKbt/
 
