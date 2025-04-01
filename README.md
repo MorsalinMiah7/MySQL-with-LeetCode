@@ -42,7 +42,8 @@ Open and run the .sql files in your MySQL environment.
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 📢 Connect with Me
-Portfolio: 
+
+Portfolio: https://morsalinmiah.netlify.app/
 
 GitHub: https://github.com/MorsalinMiah7
 
