@@ -43,7 +43,7 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 📢 Connect with Me
 
-GitHub: your-username
+GitHub: https://github.com/MorsalinMiah7
 
 LinkedIn: Your LinkedIn Profile
 
